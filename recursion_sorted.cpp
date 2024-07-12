@@ -38,7 +38,7 @@ int main() {
     int index = 0;
     
     //(check_sorted(arr,size,index) == true) ? cout << "sorted" << endl : cout << "not sotrted" << endl ;
-    (check_sorted_desc(desc_arr,size,index) == true) ? cout << "descly sorted" << endl : cout << "descly not sotrted" << endl ;
+    (check_sorted_desc(desc_arr,size,index) == true) ? cout << "descly sorted" << endl : cout << "descly not sorted" << endl ;
     
     return 0;
 }
